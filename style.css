@@ -3,3 +3,26 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+h1 {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 20rem;
+    margin: 1px 315px;
+}
+
+#frase-principal {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+#frase-explicativa {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
