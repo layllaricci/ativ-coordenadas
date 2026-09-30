@@ -12,7 +12,19 @@ h1 {
 
 img {
     width: 20rem;
-    margin: 1px 315px;
+    margin: 1px 800px;
+}
+
+fieldset {
+    border-radius: 3px;
+}
+
+#button {
+    display: block;
+    margin-inline: auto;
+    margin-block: 1rem;
+    width: fit-content;
+    padding-inline: 1rem;
 }
 
 #frase-principal {
@@ -25,4 +37,13 @@ img {
     padding: 10px;
     display: flex;
     justify-content: center;
+}
+
+.inputs {
+    padding: 10px;
+    margin-inline: 860px;
+}
+
+#x {
+    margin-bottom: 10px;
 }
